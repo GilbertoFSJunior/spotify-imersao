@@ -1,6 +1,3 @@
-GilbertoFSJunior: Crie um arquivo readme, completo para explicar o projeto.
-
-Workspace: Collecting workspace information```md
 # Spotify Clone - Imersão Alura
 
 Este projeto é uma interface de usuário inspirada no Spotify, desenvolvida durante a Imersão Alura. Ele simula funcionalidades básicas de um player de música, incluindo busca por artistas, exibição de playlists e interação com elementos visuais.
